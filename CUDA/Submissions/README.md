@@ -8,10 +8,10 @@ _No description available._
 
 | Field | Value |
 |-------|-------|
-| Problem ID | softmax |
+| Problem ID | vector-addition |
 | Language | CUDA |
-| Problem URL | [LeetGPU](https://leetgpu.com/challenges/softmax) |
-| Submitted At | 2026-10-31 12:34:45 UTC |
+| Problem URL | [LeetGPU](https://leetgpu.com/challenges/vector-addition) |
+| Submitted At | 2026-10-31 12:37:35 UTC |
 
 ---
 *Synced automatically by [LeetGPU Sync](https://github.com/your-username/leetgpu-sync)*
