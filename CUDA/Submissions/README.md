@@ -11,7 +11,7 @@ _No description available._
 | Problem ID | softmax |
 | Language | CUDA |
 | Problem URL | [LeetGPU](https://leetgpu.com/challenges/softmax) |
-| Submitted At | 2026-10-31 12:29:33 UTC |
+| Submitted At | 2026-10-31 12:29:39 UTC |
 
 ---
 *Synced automatically by [LeetGPU Sync](https://github.com/your-username/leetgpu-sync)*
