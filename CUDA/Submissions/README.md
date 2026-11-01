@@ -8,10 +8,10 @@ _No description available._
 
 | Field | Value |
 |-------|-------|
-| Problem ID | vector-addition |
+| Problem ID | rainbow-table |
 | Language | CUDA |
-| Problem URL | [LeetGPU](https://leetgpu.com/challenges/vector-addition) |
-| Submitted At | 2026-10-31 12:37:35 UTC |
+| Problem URL | [LeetGPU](https://leetgpu.com/challenges/rainbow-table) |
+| Submitted At | 2026-11-01 09:27:48 UTC |
 
 ---
 *Synced automatically by [LeetGPU Sync](https://github.com/your-username/leetgpu-sync)*
